@@ -22,3 +22,9 @@ source .venv/bin/activate
 # 默认直接执行安装的是cpu版本的torch，如需使用gpu版本的请先安装torch再执行
 pip install -r requirements.txt
 ```
+
+---
+
+2026.5.11 update:
+
+Honorable Mention
